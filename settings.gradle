@@ -1,0 +1,3 @@
+rootProject.name = "RayaKavosh-Task"
+include ':app'
+include ':core'
